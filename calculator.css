@@ -1,0 +1,104 @@
+.border{
+    width: 350px;
+    height: 450px;
+    background-color:red;
+    border-radius: 10%;
+    margin-top: 30px;
+    box-shadow: 1px 1px 3px 3px white;
+}
+.screen{
+    border-radius: 300%;
+    padding-top: 50px;
+
+}
+#mainscreen{
+    width: 2.6in;
+    height: 60px;
+    text-align: right;
+    border-radius: 15px;
+    border: 1px solid white;
+    box-shadow: 1px 1px 2px 3px black;
+    padding-right: 30px;
+}
+.button{
+    width: 40px;
+    height: 40px;
+    background-color: blue;
+    display: flex;
+}
+.buttons{
+   
+    margin-top: 60px;
+}
+.buttons-2{
+   
+    margin-top: 25px;
+}
+.buttons-3{
+   
+    margin-top: 25px;
+}
+.buttons-4{
+   
+    margin-top: 25px;
+}
+.btns{
+    width: 60px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 1px 1px 2px 2px black;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+
+}
+.btn{
+    width: 60px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 1px 1px 2px 2px black;
+    margin-left: 12px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.btn-1{
+    width: 60px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 1px 1px 2px 2px black;
+    margin-left: 12px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: aqua;
+    border: 1px solid aqua;
+}
+.btn-1:hover{
+    cursor: pointer;
+    background-color: black;
+}
+.btns:hover{
+    cursor: pointer;
+    background-color: aqua;
+    border: 1px solid aqua;
+}
+input{
+    font-size: 30px;
+}
+.reset{
+    margin-left: 1in;
+    margin-top: 20px;
+    position: absolute;
+    background-color: yellow;
+    border-radius: 20px;
+    color: blue;
+}
